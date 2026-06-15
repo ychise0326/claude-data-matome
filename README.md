@@ -14,3 +14,12 @@ https://github.com/ychise0326/claude-data-matome/blob/main/2026%E3%83%90%E3%83%B
 #同位体（旧） - 旧版の同位体データ
 
 ###2(測定済みサンプルの再現性確認)
+##2-1.20260615 同位体結果比較
+https://github.com/ychise0326/claude-data-matome/blob/main/20260615%20%E5%90%8C%E4%BD%8D%E4%BD%93%E7%B5%90%E6%9E%9C%E6%AF%94%E8%BC%83.xlsx
+
+#2025年に測定したのを2026年でスルファニル酸処理ありとなしの2条件で再測定
+#SAはスルファニル酸
+
+##260612__kara-0000(Reevaluated) ver2
+
+#2-1の2026年のほうの全体データ
